@@ -1,0 +1,32 @@
+
+img{
+    margin:2px;
+    width: 150px;
+    height: 120px;
+    
+}
+h2{
+    margin-left:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h3{
+    margin-left: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.card{
+    border:1px dotted blue;
+    padding:20px;
+    display: flex;
+    background-color: lightblue;
+    justify-content: space-around;
+}
+.border-blue{
+    
+border:1px dotted blue;
+}
